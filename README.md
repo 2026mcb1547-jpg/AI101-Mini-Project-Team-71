@@ -17,5 +17,6 @@
 #### How to Run
 1. git clone https://github.com/2026mcb1547-jpg/AI101-Mini-Project-Team-71.git
 
-#### AI Tools
-We will disclose as per Use-Disclose-Own rule
+## AI Tools Disclosure
+Use-Disclose-Own: Used Meta AI for README formatting.
+
