@@ -1,0 +1,4 @@
+Mobile Phone Price Category Prediction
+Algorithm: Logistic Regression
+Accuracy: 97.5%
+Sample Prediction: Low Price (0)
