@@ -1,22 +1,37 @@
-# AI101 - Mini Project - Team 71
-### Course: AI101 Data Science & AI Essentials - IIT Ropar
+# Mobile Phone Price Category Prediction using Machine Learning
 
-#### Team 71 Members
-- ASHISH KUMAR - 2026EEB1328
-- GAVINI JITESH YADAV-2026AIB1038
-- MRINALIKA SINGH-2026EEB1381
-- MEENAKSHI-2026MCB1547
+## Project Overview
+This project predicts the price category of mobile phones using Machine Learning.
 
-#### Problem Statement
-**Title:** Mobile Phone Price Range Prediction
+## Algorithm Used
+- Logistic Regression
+- StandardScaler for Feature Scaling
 
-**Description:** Given a phone's specifications (like RAM, Battery Power, Screen size etc.), predict whether it belongs to a low, medium, high, or very high price range using Classification models.
+## Dataset
+Mobile Price Classification Dataset from Kaggle.
 
-**Type:** Multi-class Classification Problem
+Dataset Link:
+https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification
 
-#### How to Run
-1. git clone https://github.com/2026mcb1547-jpg/AI101-Mini-Project-Team-71.git
+## Model Accuracy
+97.5%
 
-## AI Tools Disclosure
-Use-Disclose-Own: Used Meta AI for README formatting.
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
 
+## How to Run
+1. Install the required libraries: pip install -r requirements.txt
+2. Run the project: python main.py
+
+## Team Members
+- Ashish Kumar - Executive Lead
+- Gavini Jitesh Yadav - PPT Lead
+- Mrinalika Singh - Video Lead
+- Meenakshi - Documentation Lead
+
+## AI Tool Disclosure
+AI tools were used for learning, coding guidance, debugging, and documentation assistance.
